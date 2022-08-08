@@ -238,11 +238,8 @@ Function That Returns The Amount Of Indetifiers.
 
 
 
-### Authors
-Tolulope Fakunle and Bamidele Adefolaju
-
 ------------
 
 ### End
 
-Bamidele & Adefolaju @ ALX software engineering programme 2022.
+2022
