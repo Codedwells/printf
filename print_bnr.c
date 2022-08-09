@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
 * print_bnr - prints decimal in binary
 * @arguments: input string
@@ -31,7 +32,7 @@ if (first_one == 0 && binary[i] == '1')
 first_one = 1;
 if (first_one == 1)
 {
-  ibuf = handl_buf(buf, binary[i], ibuf);
+ibuf = handl_buf(buf, binary[i], ibuf);
 count++;
 }
 }
